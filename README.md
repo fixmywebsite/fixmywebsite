@@ -5,8 +5,8 @@ We specialize in fixing broken pages, errors, and bugs for small businesses, sta
 
 ### ⚡ What We Do
 - Quick Fix Package – **$99** (1-off issues, staging bugs, broken features)  
-- Full Repair Package – for larger problems or multi-page issues  
-- Emergency Support – urgent fixes when downtime is critical  
+- Full Repair Package – **$299** (Complex Bugs) 
+- Advanced Repair – **$499** (Critical Site Issues)
 
 ### 🔒 Why Work With Us
 - Private & secure client repos  
@@ -21,4 +21,4 @@ We specialize in fixing broken pages, errors, and bugs for small businesses, sta
 ---
 
 🚀 Need something fixed today?  
-Just open an issue here or contact us directly — we’ll take care of it.  
+Just contact us directly — we’ll take care of it.  
