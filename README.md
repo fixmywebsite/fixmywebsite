@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💻 Fix My Website ✨🪄
 
-<!--
-**fixmywebsite/fixmywebsite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Fix My Website** – fast, reliable website repair.  
+We specialize in fixing broken pages, errors, and bugs for small businesses, startups, and creatives.  
 
-Here are some ideas to get you started:
+### ⚡ What We Do
+- Quick Fix Package – **$99** (1-off issues, staging bugs, broken features)  
+- Full Repair Package – for larger problems or multi-page issues  
+- Emergency Support – urgent fixes when downtime is critical  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔒 Why Work With Us
+- Private & secure client repos  
+- Clear, flat-rate pricing  
+- No jargon — we explain everything in plain English  
+- Dedicated GitHub account just for client work  
+
+### 🌐 Contact
+- Website: [fixmywebsite.pro](https://fixmywebsite.pro)  
+- Email: [support@fixmywebsite.pro](mailto:support@fixmywebsite.pro)  
+
+---
+
+🚀 Need something fixed today?  
+Just open an issue here or contact us directly — we’ll take care of it.  
